@@ -1,1 +1,11 @@
 /* CSS 선택자(Selector) */
+body {
+    font-family: "SUIT";
+    font-weight: 300;
+    background-color: #000;
+    color: hsla(110, 100%, 100%, 1);
+  }
+
+  * {
+    color: inherit;
+  }
